@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! My name is Jamera McNeil 👋
+
+### About Me 🤔
+
+As a Software Engineer student with a background in social media management, I'm fascinated by how technology is used to build, influence, and manage community. I am eager to explore ways in which I can create digital products that are accessible, inclusive, and enjoyable for all.
+
+### Contact Me 📲
+
+Please feel free to contact me via Linkedin (noted below my profile picture). Thanks for stopping by!
 
 <!--
 **JameraMcNeil/jameramcneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
